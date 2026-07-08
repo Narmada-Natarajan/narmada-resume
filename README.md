@@ -3,8 +3,7 @@
   # 👩‍💻 Narmada Natarajan
   
   ### *Full Stack Developer | AI Enthusiast | Innovator*
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://narmada-portfolio.com)
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmada-natarajan-38342628a)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narmada-Natarajan)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narmadanatarajan3629@gmail.com)
@@ -22,7 +21,7 @@ Hey there! I'm **Narmada Natarajan**, a passionate **Full Stack Developer** and 
   ### 🎯 *"Building intelligent solutions for tomorrow's challenges"*
   
 ---
-
+<div>
 ## 🌟 What Makes Me Unique
 
 - 🎯 **Problem Solver**: Love tackling complex challenges
@@ -30,7 +29,7 @@ Hey there! I'm **Narmada Natarajan**, a passionate **Full Stack Developer** and 
 - 📚 **Lifelong Learner**: Always exploring new technologies
 - 🚀 **Innovator**: Passionate about AI/ML integration
 - 💡 **Creative Thinker**: Bringing fresh perspectives to projects
-
+</div>
 ---
 
 ## 📬 Let's Connect!
